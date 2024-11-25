@@ -1,6 +1,6 @@
 # FMCH_team98
 
-A solution for the problem statement presented by 'Foundation of Mother & Child Health' at Code For Good 2024, JP Morgan Chase
+A solution for the problem statement presented by 'Foundation of Mother & Child Health' at Code For Good 2022, JP Morgan Chase
 
 > Created a platform to educate the AWWs to be able to better meet the requirements and counsel the mothers in pregnancy and after child birth.
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/239c6966-c3b7-4010-8b93-6861a9eaaf3c">
